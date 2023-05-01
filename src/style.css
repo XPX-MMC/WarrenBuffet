@@ -1,0 +1,30 @@
+body {
+    background-color: white;
+}
+
+h1, h5, h3{
+    text-align: center; 
+    color: rgb(42, 42, 221);
+}
+
+h4{
+    text-align: center; 
+    color: rgb(42, 42, 221);
+}
+
+.logo{
+    line-height: 0.1;
+    text-align: center;
+}
+
+.main-heading{
+    line-height: 0.1;
+}
+
+.table{
+    line-height: 3;
+}
+
+li {
+    margin: 30px
+}
