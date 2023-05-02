@@ -2,9 +2,14 @@ body {
     background-color: white;
 }
 
-h1, h5, h3{
+.title, h5, h3{
     text-align: center; 
     color: rgb(42, 42, 221);
+}
+
+.title {
+    font-weight: 800;
+    margin-top: 30px;
 }
 
 h4{
@@ -27,4 +32,14 @@ h4{
 
 li {
     margin: 30px
+}
+.B{
+    font-size:xx-large
+}
+.column2{
+    padding-left: 200px;
+}
+
+h6{
+    margin-top: 5px;
 }
