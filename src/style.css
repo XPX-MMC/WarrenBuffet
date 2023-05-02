@@ -4,7 +4,7 @@ body {
 
 .title, h5, h3{
     text-align: center; 
-    color: rgb(42, 42, 221);
+    color: rgb(14, 14, 96);
 }
 
 .title {
@@ -14,7 +14,7 @@ body {
 
 h4{
     text-align: center; 
-    color: rgb(42, 42, 221);
+    color: rgb(14, 14, 96);
 }
 
 .logo{
@@ -42,4 +42,11 @@ li {
 
 h6{
     margin-top: 5px;
+}
+
+a active{
+    color: blue;
+}
+a :visited{
+    color: rgb(154, 1, 101);
 }
