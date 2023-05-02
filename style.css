@@ -3,6 +3,26 @@
     color: darkblue;    
 }
 .CompanyAddress {
-        text-align: center;
-    } 
-
+    text-align: center;
+    }
+.Official{
+    text-align: center;
+}
+.FlexContainerOfLinks {
+    display: flex;
+    justify-content: space-around;
+}
+li {
+    padding: 15px;
+    font-size:medium;
+    font-style:normal;
+}
+.GeicoAdContainer {
+    text-align: center;
+}
+.CommentsContainer{
+    text-align: left;
+}
+.LegalDisclaimerContainer {
+    text-align: left; 
+}
