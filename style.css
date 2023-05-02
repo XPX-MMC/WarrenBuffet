@@ -1,4 +1,8 @@
-.CompanyAddressContainer {
+.CompanyLogo {
     text-align: center;
-    color:darkblue;
+    color: darkblue;    
 }
+.CompanyAddress {
+        text-align: center;
+    } 
+
