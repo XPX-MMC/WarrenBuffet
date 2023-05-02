@@ -1,10 +1,7 @@
 body {
     background-color:white; 
 }
-h1, h5, h3{
-    text-align: center;
-    color:rgb(42, 42, 221);
-}
+
 
 h4{
     text-align: center;
@@ -17,7 +14,9 @@ h4{
 }
 
 .main-heading{
-    line-height: 0.1;
+    text-align: center;
+    color: darkblue;
+    font-weight: 800;
 }
 
 .table{
@@ -29,5 +28,24 @@ li {
 }
 
 .smaller-li {
-    font-size:x-small
+    font-size:x-small;
+    margin-top: 4px;
+}
+
+.title {
+    font-size:x-large;
+}
+
+.bigger-letter {
+    font-size: xx-large;
+}
+
+.left-align {
+    text-align: left;
+    font-size: small;
+    margin-bottom: 6px;
+}
+
+footer {
+    text-align: center;
 }
