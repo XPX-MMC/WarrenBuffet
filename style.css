@@ -12,6 +12,9 @@
     display: flex;
     justify-content: space-around;
 }
+.FlexContainerOfLinks div{
+    font-size: x-small;
+}
 li {
     padding: 15px;
     font-size:medium;
@@ -20,9 +23,18 @@ li {
 .GeicoAdContainer {
     text-align: center;
 }
+.GeicoAdContainer div{
+    font-size:x-small;
+}
 .CommentsContainer{
     text-align: left;
 }
 .LegalDisclaimerContainer {
     text-align: left; 
+}
+.CommentsContainer p {
+    font-size: small;
+}
+.LegalDisclaimerContainer div, p{
+    font-size: small;
 }
