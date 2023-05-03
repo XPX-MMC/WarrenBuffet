@@ -5,6 +5,7 @@
 }
 .CompanyLogo span:nth-child(1), span:nth-child(3) {
     font-size: 32px;
+    letter-spacing: -4px;
 }
 
 .CompanyLogo span:nth-child(2), span:nth-child(4) {
