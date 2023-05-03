@@ -1,13 +1,24 @@
-.CompanyLogo {
+#CompanyHeader {
     text-align: center;
-    color: darkblue;    
+    color: darkblue;
+    font-weight: bold;
 }
-.CompanyAddress {
-    text-align: center;
-    }
-.Official{
-    text-align: center;
+.CompanyLogo span:nth-child(1), span:nth-child(3) {
+    font-size: 32px;
 }
+
+.CompanyLogo span:nth-child(2), span:nth-child(4) {
+    font-size: 18px;
+}
+
+.CompanyLogo span:nth-child(5){
+    font-size: 13px;
+}
+
+.CompanyAddress div {
+    font-size: small;
+}
+
 .FlexContainerOfLinks {
     display: flex;
     justify-content: space-around;
