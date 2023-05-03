@@ -1,0 +1,51 @@
+#CompanyHeader {
+    text-align: center;
+    color: darkblue;
+    font-weight: bold;
+}
+.CompanyLogo span:nth-child(1), span:nth-child(3) {
+    font-size: 32px;
+}
+
+.CompanyLogo span:nth-child(2), span:nth-child(4) {
+    font-size: 18px;
+}
+
+.CompanyLogo span:nth-child(5){
+    font-size: 13px; 
+}
+
+.CompanyAddress div {
+    font-size: small;
+}
+
+.FlexContainerOfLinks {
+    display: flex;
+    justify-content: space-around;
+}
+.FlexContainerOfLinks div{
+    font-size: x-small;
+}
+li {
+    padding: 15px;
+    font-size:medium;
+    font-style:normal;
+}
+.GeicoAdContainer {
+    text-align: center;
+}
+.GeicoAdContainer div{
+    font-size:x-small;
+}
+.CommentsContainer{
+    text-align: left;
+}
+.LegalDisclaimerContainer {
+    text-align: left; 
+}
+.CommentsContainer p {
+    font-size: small;
+}
+.LegalDisclaimerContainer div, p{
+    font-size: small;
+}
